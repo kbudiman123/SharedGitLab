@@ -38,5 +38,6 @@ public class GitLab implements EntryPoint {
 	public void onModuleLoad() {
 	
 		Window.alert("Loaded");
+		System.out.println("Hello this is Kevin");
 	}
 }
