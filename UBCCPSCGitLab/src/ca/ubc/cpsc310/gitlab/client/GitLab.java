@@ -39,5 +39,6 @@ public class GitLab implements EntryPoint {
 	
 		Window.alert("Loaded");
 		System.out.println("Hello this is Kevin");
+		System.out.println("Hi! Nice to mmet u. My name is Eric!");
 	}
 }
